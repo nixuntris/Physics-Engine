@@ -1,3 +1,0 @@
-*.exe
-*.dsym
-main
